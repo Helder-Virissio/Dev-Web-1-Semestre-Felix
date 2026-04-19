@@ -1,10 +1,41 @@
-# Projeto web - felix
-site de desenvolvimento de DW -I
-Site desenvolimento de DW-I, Fatec LuigiPapaiz de Diadema - v1 2025.
-Prof.DR.Bruno Zolotareff dos Santos
+# 🐱 Projeto Web - Gato Félix
 
-Autor: Helder Virissio Araujo
-Linkedin: https://www.linkedin.com/in/helder-virissio-araujo
+📚 Projeto desenvolvido para a disciplina de Desenvolvimento Web I (DW-I)  
+🏫 Fatec Luigi Papaiz - Diadema  
+👨‍🏫 Prof. Dr. Bruno Zolotareff dos Santos  
 
-## Sobre
-Esse é um projeto web que engloba aprendizados sobre HTML5, Bootstrap e JavaScript. O Tema escolhido é sobre o Gato Félix por ser um desenho interessante e com valores de aprendizado de uma diferente que da atualidade, trazendo um pouco de lembrança ou informção de arte do passado. 
+---
+
+## 📖 Sobre o projeto
+
+Este projeto foi desenvolvido com o objetivo de aplicar os conhecimentos adquiridos em Desenvolvimento Web I, utilizando tecnologias fundamentais para construção de páginas web.
+
+O tema escolhido foi o **Gato Félix**, um personagem clássico da animação, trazendo uma proposta de resgatar referências da arte do passado e apresentar conteúdos com valor cultural e informativo.
+
+---
+
+## 🚀 Funcionalidades
+
+- 📄 Página web temática sobre o Gato Félix  
+- 🎨 Layout estilizado com Bootstrap  
+- ⚡ Interações básicas com JavaScript  
+- 📱 Estrutura responsiva  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- HTML5  
+- CSS3  
+- Bootstrap  
+- JavaScript  
+- Git e GitHub  
+
+---
+
+## 👨‍💻 Autor
+
+- **Helder Virissio Araújo**  
+- 💼 LinkedIn: https://www.linkedin.com/in/helder-virissio-araujo  
+
+---
