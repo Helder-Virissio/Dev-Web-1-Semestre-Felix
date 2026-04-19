@@ -13,6 +13,8 @@ Este projeto foi desenvolvido com o objetivo de aplicar os conhecimentos adquiri
 O tema escolhido foi o **Gato Félix**, um personagem clássico da animação, trazendo uma proposta de resgatar referências da arte do passado e apresentar conteúdos com valor cultural e informativo.
 
 ---
+🌐 Site: https://helder-virissio.github.io/Dev-Web-1-Semestre-Felix/
+---
 
 ## 🚀 Funcionalidades
 
